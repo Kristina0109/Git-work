@@ -16,7 +16,7 @@
 
 ```
 git clone https://github.com/Kristina0109/Git-work.git
-cd Git-work
+cd ваш_репозиторий
 pip install -r requirements.txt
 ```
 
